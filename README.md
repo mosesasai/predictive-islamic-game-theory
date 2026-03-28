@@ -10,11 +10,4 @@ Applying the Muhammad Equilibrium to 16 modern global crises — from the Israel
 
 ## View Online
 
-Visit the live book at: `https://YOUR_USERNAME.github.io/predictive-islamic-game-theory/`
-
-## Setup (GitHub Pages)
-
-1. Go to repository Settings > Pages
-2. Set Source to "Deploy from a branch"
-3. Select `main` branch, root folder `/`
-4. Save — your site will be live in a few minutes
+Visit the live book at: `https://mosesasai.github.io/predictive-islamic-game-theory/`
